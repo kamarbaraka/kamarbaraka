@@ -1,20 +1,4 @@
-<!Doctype html>
 
-<style >
-    #connect-paragraph{
-        float: left;
-    }
-    #languages-paragraph{
-        align-content: center;
-        align-self: center;
-    }
-    a{
-        padding: 5px;
-    }
-    #foot{
-        padding: 20px;
-    }
-</style>
 
 <h1 id="text">Hi 👋, I'm kamar baraka</h1>
 <h3 id="text">A java and python software engineer in Kenya</h3>
