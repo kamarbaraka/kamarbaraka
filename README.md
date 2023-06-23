@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/kamarbaraka" target="blank"><img src="https://img.shields.io/twitter/follow/kamarbaraka?logo=twitter&style=for-the-badge" alt="kamarbaraka" /></a> </p>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=gruvbox&no-frame=true"/>
+<a href="[https://github.com/ryo-ma/github-profile-trophy](https://github.com/kamarbaraka/kamarbaraka)"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="[https://github.com/ryo-ma/github-profile-troph](https://github.com/kamarbaraka/kamarbaraka)y">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=kamarbaraka&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
 - 🔭 I’m currently working on [java server application](https://github.com/kamarbaraka/PracticeProjects)
