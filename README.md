@@ -5,21 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamarbaraka&label=Profile%20views&color=0e75b6&style=flat" alt="kamarbaraka" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamarbaraka" alt="kamarbaraka" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/kamarbaraka" target="blank"><img src="https://img.shields.io/twitter/follow/kamarbaraka?logo=twitter&style=for-the-badge" alt="kamarbaraka" /></a> </p>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=gruvbox&no-frame=true"/>
 </a>
-
-
----
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-ma&layout=compact" />
-</div>
 
 - 🔭 I’m currently working on [java server application](https://github.com/kamarbaraka/PracticeProjects)
 
