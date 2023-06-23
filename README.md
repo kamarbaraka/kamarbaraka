@@ -12,6 +12,10 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=kamarbaraka&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamarbaraka&layout=compact" />
+</div>
+
 - 🔭 I’m currently working on [java server application](https://github.com/kamarbaraka/PracticeProjects)
 
 - 🌱 I’m currently learning **java, python, spring, spring boot**
