@@ -3,18 +3,23 @@
 <h1 id="text">Hi 👋, I'm kamar baraka</h1>
 <h3 id="text">A java and python software engineer in Kenya</h3>
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamarbaraka&label=Profile%20views&color=0e75b6&style=flat" alt="kamarbaraka" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kamarbaraka" target="blank"><img src="https://img.shields.io/twitter/follow/kamarbaraka?logo=twitter&style=for-the-badge" alt="kamarbaraka" /></a> </p>
+
+# Github Stats
+![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamarbaraka&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true)
+
+# Most Used Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamarbaraka&hide=html,css,xslt,dockerfile,scss,makefile&langs_count=4&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats&size_weight=0.5&count_weight=0.5)
 
 <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github.com/kamarbaraka/kamarbaraka)"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="[https://github.com/ryo-ma/github-profile-troph](https://github.com/kamarbaraka/kamarbaraka)y">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=kamarbaraka&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamarbaraka&layout=compact" />
-</div>
 
 - 🔭 I’m currently working on [java server application](https://github.com/kamarbaraka/PracticeProjects)
 
