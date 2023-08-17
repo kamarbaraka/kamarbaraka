@@ -10,10 +10,10 @@
 <p align="left"> <a href="https://twitter.com/kamarbaraka" target="blank"><img src="https://img.shields.io/twitter/follow/kamarbaraka?logo=twitter&style=for-the-badge" alt="kamarbaraka" /></a> </p>
 
 # Github Stats
-![Ian's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kamarbaraka&show_icons=true&theme=react&rank_icon=github)
+![Ian's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kamarbaraka&show_icons=true&theme=dracula&rank_icon=github)
 
 # Most Used Langs
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kamarbaraka&hide=html,css,xslt,dockerfile,scss,makefile&langs_count=8&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats&size_weight=0.5&count_weight=0.5)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kamarbaraka&hide=html,css,xslt,dockerfile,scss,makefile&langs_count=16&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats&size_weight=0.5&count_weight=0.5)
 
 <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github.com/kamarbaraka/kamarbaraka)"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="[https://github.com/ryo-ma/github-profile-troph](https://github.com/kamarbaraka/kamarbaraka)y">
