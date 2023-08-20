@@ -21,17 +21,9 @@
 </a>
 
 
-- 🔭 I’m currently working on [java server application](https://github.com/kamarbaraka/PracticeProjects)
-
-- 🌱 I’m currently learning **java, python, spring, spring boot**
-
 - 👨‍💻 All of my projects are available at [https://github.com/kamarbaraka](https://github.com/kamarbaraka)
 
-- 💬 Ask me about **java, python**
-
 - 📫 How to reach me **kamar254baraka@gmail.com**
-
-- ⚡ Fun fact **I'm passionate about the tech world**
 
 <h3 align="center">Connect with me:</h3>
 
