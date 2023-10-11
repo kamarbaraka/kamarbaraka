@@ -3,14 +3,10 @@
 <h1 id="text">Hi 👋, I'm kamar baraka</h1>
 <h3 id="text">I am a professional with a passion for web development, and control systems development. With 3 years of volunteering experience, I have honed my skills in various areas, including Java backend web development. I am particularly proficient in web backend development using the Spring framework. Throughout my career, I have had the opportunity to lead 5 teams in the development of websites and REST APIs. I hold a degree in Computer and Electronic System Engineering from Mount Kenya University, and I am currently furthering my knowledge in Java backend development with Spring Boot through a course at Develhope. I am excited to leverage my skills and experience to contribute to innovative projects and make a positive impact in the field of web development.</h3>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamarbaraka&label=Profile%20views&color=0e75b6&style=flat" alt="kamarbaraka" /> </p>
-
 <p align="left"> <a href="https://twitter.com/kamarbaraka" target="blank"><img src="https://img.shields.io/twitter/follow/kamarbaraka?logo=twitter&style=for-the-badge" alt="kamarbaraka" /></a> </p>
 
 # Github Stats
-![Ian's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kamarbaraka&show_icons=true&count_private=true&theme=radical&rank_icon=github)
+![Kamar's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kamarbaraka&show_icons=true&count_private=true&theme=radical&rank_icon=github)
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kamarbaraka&hide=html,css,xslt,dockerfile,scss,makefile&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats&size_weight=0.5&count_weight=0.5)
 
