@@ -1,7 +1,7 @@
 
 
 <h1 id="text">Hi 👋, I'm kamar baraka</h1>
-<h3 id="text">A java and python software engineer in Kenya</h3>
+<h3 id="text">I am a professional with a passion for web development, and control systems development. With 3 years of volunteering experience, I have honed my skills in various areas, including Java backend web development. I am particularly proficient in web backend development using the Spring framework. Throughout my career, I have had the opportunity to lead 5 teams in the development of websites and REST APIs. I hold a degree in Computer and Electronic System Engineering from Mount Kenya University, and I am currently furthering my knowledge in Java backend development with Spring Boot through a course at Develhope. I am excited to leverage my skills and experience to contribute to innovative projects and make a positive impact in the field of web development.</h3>
 
 
 
