@@ -5,21 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/kamarbaraka" target="blank"><img src="https://img.shields.io/twitter/follow/kamarbaraka?logo=twitter&style=for-the-badge" alt="kamarbaraka" /></a> </p>
 
-# Github Stats
-![Kamar's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kamarbaraka&show_icons=true&count_private=true&theme=radical&rank_icon=github)
-
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kamarbaraka&hide=html,css,xslt,dockerfile,scss,makefile&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats&size_weight=0.5&count_weight=0.5)
-
-<a href="[https://github.com/ryo-ma/github-profile-trophy](https://github.com/kamarbaraka/kamarbaraka)"><h2>🏆 Github Profile Trophy</h2></a>
-<a href="[https://github.com/ryo-ma/github-profile-troph](https://github.com/kamarbaraka/kamarbaraka)y">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=kamarbaraka&column=8&theme=gruvbox&no-frame=true"/>
-</a>
-
-
-- 👨‍💻 All of my projects are available at [https://github.com/kamarbaraka](https://github.com/kamarbaraka)
-
-- 📫 How to reach me **kamar254baraka@gmail.com**
-
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
@@ -38,3 +23,28 @@
     <a href="https://discord.gg/https://discord.gg/ye4cuqvH" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/ye4cuqvH" height="30" width="40" /></a>
 </p> 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/kamarbaraka">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamarbaraka&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kamarbaraka&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamarbaraka&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamarbaraka&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamarbaraka&theme=2077" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=kamarbaraka&theme=react-dark"/>
+
+
+<a href="[https://github.com/ryo-ma/github-profile-trophy](https://github.com/kamarbaraka/kamarbaraka)"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="[https://github.com/ryo-ma/github-profile-troph](https://github.com/kamarbaraka/kamarbaraka)y">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=kamarbaraka&column=8&theme=gruvbox&no-frame=true"/>
+</a>
+
+
+- 👨‍💻 All of my projects are available at [https://github.com/kamarbaraka](https://github.com/kamarbaraka)
+
+- 📫 How to reach me **kamar254baraka@gmail.com**
+
+
