@@ -24,6 +24,8 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/ye4cuqvH" height="30" width="40" /></a>
 </p> 
 
+- 📫 How to reach me **kamar254baraka@gmail.com**
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/kamarbaraka">
@@ -33,9 +35,6 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamarbaraka&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamarbaraka&theme=2077" height="180em" />
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=kamarbaraka&theme=react-dark"/>
-
 
 <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github.com/kamarbaraka/kamarbaraka)"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="[https://github.com/ryo-ma/github-profile-troph](https://github.com/kamarbaraka/kamarbaraka)y">
@@ -45,6 +44,5 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kamarbaraka](https://github.com/kamarbaraka)
 
-- 📫 How to reach me **kamar254baraka@gmail.com**
 
 
