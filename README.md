@@ -1,7 +1,7 @@
 
 
 <h1 id="text">Hi 👋, I'm Samson baraka</h1>
-<h3 id="text">I am a professional with a passion for web development, and control systems development. With over 3 years of experience, I have honed my skills in various areas, including Java backend web development. I am particularly proficient in web backend development using the Spring framework. Throughout my career, I have had the opportunity to lead 5 teams in the development of websites and REST APIs. I hold a degree in Computer and Electronic System Engineering from Mount Kenya University. I am excited to leverage my skills and experience to contribute to innovative projects and make a positive impact in the field of web development.</h3>
+<h3 id="text">I am a professional in web and control systems development with over 5 years of experience, I have honed my skills in various areas, including backend web development with Java and Spring framework, frontend web development with Dart and Flutter framework and database administration with PostgreSQL and Liquibase. Throughout my career, I have had the opportunity to lead more than five teams in the development of websites, mobile applications, microservices, and REST APIs. I am very passionate about technology and its development..</h3>
 
 <p align="left"> <a href="https://twitter.com/kamarbaraka" target="blank"><img src="https://img.shields.io/twitter/follow/kamarbaraka?logo=twitter&style=for-the-badge" alt="kamarbaraka" /></a> </p>
 
