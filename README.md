@@ -1,16 +1,16 @@
 
 
 <h1 id="text">Hi 👋, I'm Samson baraka</h1>
-<h3 id="text">I am a professional in web and control systems development with over 5 years of experience, I have honed my skills in various areas, including backend web development with Java and Spring framework, frontend web development with Dart and Flutter framework and database administration with PostgreSQL and Liquibase. Throughout my career, I have had the opportunity to lead more than five teams in the development of websites, mobile applications, microservices, and REST APIs. I am very passionate about technology and its development..</h3>
+<h3 id="text">Experienced Software Developer and Coding Architect Agile software development processes for full-stack web development: Web apps with Java and Spring; Data-centric systems with RDBMSs (PostgreSQL, MySQL SQL Server, others), Cassandra, Redis; Event-driven applications with Kafka.
 
-<p align="left"> <a href="https://twitter.com/kamarbaraka" target="blank"><img src="https://img.shields.io/twitter/follow/kamarbaraka?logo=twitter&style=for-the-badge" alt="kamarbaraka" /></a> </p>
+I take pride in being a full-stack software developer using Java and Java frameworks. I can implement all tiers of an application: from CSS and Javascript to databases and message queues, and even take it into "the Cloud". I am a committed Agile software development expert and believe strongly in test-driven development (TDD), pair programming, iterative development, and Agile project management.</h3>
 
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
     <a id="twitter" href="https://twitter.com/kamarbaraka" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kamarbaraka" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/kamar baraka" target="blank">
+    <a href="https://www.linkedin.com/in/samson-baraka/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamar baraka" height="30" width="40" /></a>
     <a href="https://stackoverflow.com/users/11441323" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11441323" height="30" width="40" /></a>
