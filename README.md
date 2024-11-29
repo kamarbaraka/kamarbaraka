@@ -1,9 +1,7 @@
 
 
-<h1 id="text">*Samson baraka*</h1>
-<h3 id="text">Family Man | Software Engineer | Systems Engineer & Architect | Agile (XP!) practitioner | Microservices | RHEL | Web development | ERP | CRM | IMIS | IFMIS | Enterprise Software
-
-I take pride in being a full-stack software developer using Java and Java frameworks. I can implement all tiers of an application: from CSS and Javascript to databases and message queues, and even take it into "the Cloud". I am a committed Agile software development expert and believe strongly in test-driven development (TDD), pair programming, iterative development, and Agile project management.</h3>
+<h1 id="text">Samson (Kahindi) Baraka</h1>
+<h3 id="text">Family Man | Software Engineer | Systems Engineer & Architect | Agile (XP!) practitioner | Microservices | RHEL | Web development | ERP | CRM | IMIS | IFMIS | Enterprise Software</h3>
 
 <h3 align="center">Connect with me:</h3>
 
