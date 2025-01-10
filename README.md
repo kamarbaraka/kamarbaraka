@@ -1,7 +1,7 @@
 
 
 <h1 id="text">Samson (Kahindi) Baraka</h1>
-<h3 id="text">Family Man | Software Engineer | Systems Engineer & Architect | Agile (XP!) practitioner | Microservices | RHEL | Web development | ERP | CRM | IMIS | IFMIS | Enterprise Software</h3>
+<h3 id="text">Lead Software Engineer | Backend Engineer | ERP & CRM Systems Engineer | Agile Practitioner | Microservices | Java & Spring Developer | Enterprise Application Developer | Web developer</h3>
 
 <h3 align="center">Connect with me:</h3>
 
