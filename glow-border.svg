@@ -1,0 +1,14 @@
+<svg width="1200" height="20" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#00F0FF"/>
+      <stop offset="50%" stop-color="#66FFF5"/>
+      <stop offset="100%" stop-color="#00F0FF"/>
+    </linearGradient>
+    <filter id="f" x="-50%" y="-200%" width="200%" height="600%">
+      <feGaussianBlur stdDeviation="8" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect x="0" y="0" width="1200" height="6" rx="3" fill="url(#g)" filter="url(#f)" opacity="0.95"/>
+</svg>
