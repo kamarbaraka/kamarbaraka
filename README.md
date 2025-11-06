@@ -6,10 +6,8 @@
 
 ---
 
-### 💡 About Me
-
-🚀 **Lead Software Engineer** at [Brisk Solution Company Ltd](https://bsl.co.ke)  
-🌍 **Founder & CTO** at [KB Hacks & Solutions Ltd.](https://kbhacksandsolutions.com)  
+### 💡 About Me 
+🌍 **Founder & CTO** at [Kalon Brilliance Hacks & Solutions Ltd.](https://kbhacksandsolutions.com)  
 🧠 9+ years of experience in **Enterprise & AI Systems Engineering**  
 🏗️ Specialized in **ERP**, **CRM**, **IMIS**, **IFMIS**, and **GovTech** solutions  
 💬 Fluent in **Java**, **Python**, **C++**, **C#**, and modern **microservices architecture**  
@@ -17,6 +15,18 @@
 🔥 Passionate about **scalable system architecture**, **AI integration**, and **digital transformation**  
 
 ---
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:kbhacksandsolutions@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/samson-baraka"><img src="https://img.shields.io/badge/LinkedIn-Samson%20Baraka-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/kamarbaraka"><img src="https://img.shields.io/badge/GitHub-Samson%20Baraka-%23181717?style=for-the-badge&logo=github&logoColor=white"></a>
+
+[//]: # (  <a href="https://imis.afa.go.ke/afa/"><img src="https://img.shields.io/badge/Portfolio-View_My_Work-%2300BFFF?style=for-the-badge&logo=google-chrome&logoColor=white"></a>)
+</p>
+
+---
+
 
 ### ⚙️ Core Competencies & Expertise
 
