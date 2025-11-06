@@ -79,9 +79,9 @@
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kamarbaraka&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kamarbaraka&theme=radical&hide_border=true&background=0D1117&fire=00BFFF" />
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=kamarbaraka&bg_color=0D1117&color=00BFFF&line=1E90FF&point=FFFFFF&area=true&hide_border=true" />
+  <img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=kamarbaraka&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" />
+  <!-- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kamarbaraka&theme=radical&hide_border=true&background=0D1117&fire=00BFFF" /> -->
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kamarbaraka&bg_color=0D1117&color=00BFFF&line=1E90FF&point=FFFFFF&area=true&hide_border=true" />
 </div>
 
 ---
