@@ -34,7 +34,7 @@
 
 | 💼 Enterprise Systems | 🧩 Architecture | ⚙️ Backend Dev | 🧠 AI Integration | 🌐 Cloud & DevOps |
 |------------------------|----------------|----------------|------------------|------------------|
-| ERP, CRM, IMIS, IFMIS | Microservices, DDD, Hexagonal | Java, Spring Boot, Python, Node.js | Predictive Models, LLM Integration | Docker, Kubernetes, GCP, CI/CD |
+| ERP, CRM, IMIS, IFMIS | Microservices, DDD, Hexagonal, OSGI | Java, Spring Boot, Python, Node.js | Predictive Models, LLM Integration | Docker, Kubernetes, GCP, CI/CD |
 
 </div>
 
