@@ -1,7 +1,7 @@
 <!-- 🌀 Animated Profile README for Samson Baraka -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=4000&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=Samson+Kahindi+Baraka;Lead+Software+Engineer;%7C+Enterprise+%26+AI+Systems+Architect;Founder+of+KB+Hacks+%26+Solutions+Ltd.;Innovating+with+Java+%7C+Python+%7C+C%2B%2B+%F0%9F%9A%80" alt="Animated Title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=4000&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=Samson+Kahindi+Baraka;Lead+Software+Engineer;Enterprise+%26+AI+Systems+Architect;Founder+of+KB+Hacks+%26+Solutions+Ltd.;Innovating+with+Java+%7C+Python+%7C+C%2B%2B+%F0%9F%9A%80" alt="Animated Title" />
 </h1>
 
 ---
