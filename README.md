@@ -56,6 +56,15 @@
 > Driving Africa’s digital transformation through enterprise software innovation.  
 
 ---
+### 🧩 Featured Publications
+
+🧱 [Application Hexagon](https://www.linkedin.com/pulse/application-hexagon-samson-baraka-zdzwf?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_publications_details%3BXDSLDGxfQYig%2Fifo%2B88UFg%3D%3D)  
+🔑 [Message-Driven Communication](https://www.linkedin.com/pulse/message-driven-communication-samson-baraka-np0tf?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_publications_details%3BXDSLDGxfQYig%2Fifo%2B88UFg%3D%3D)  
+🏗️ [Understanding the Hexagonal Architecture](https://lnkd.in/dyMuy-ab)  
+🧩 [Building Reactive Systems](https://www.linkedin.com/pulse/building-reactive-system-samson-baraka-qygyf?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_publications_details%3BXDSLDGxfQYig%2Fifo%2B88UFg%3D%3D)  
+👁️ [The Observer Pattern](https://www.linkedin.com/pulse/observer-pattern-samson-baraka-tzdhf/?trackingId=c976misJRN%2BUgd%2FrH535%2FA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_publications_details%3BXDSLDGxfQYig%2Fifo%2B88UFg%3D%3D)
+
+---
 
 ### 🧠 Tech Stack
 
@@ -86,32 +95,6 @@
 
 ---
 
-### 🧩 Featured Publications
-
-🧱 [Application Hexagon](https://www.linkedin.com/pulse/application-hexagon-samson-baraka-zdzwf?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_publications_details%3BXDSLDGxfQYig%2Fifo%2B88UFg%3D%3D)  
-🔑 [Message-Driven Communication](https://www.linkedin.com/pulse/message-driven-communication-samson-baraka-np0tf?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_publications_details%3BXDSLDGxfQYig%2Fifo%2B88UFg%3D%3D)  
-🏗️ [Understanding the Hexagonal Architecture](https://lnkd.in/dyMuy-ab)  
-🧩 [Building Reactive Systems](https://www.linkedin.com/pulse/building-reactive-system-samson-baraka-qygyf?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_publications_details%3BXDSLDGxfQYig%2Fifo%2B88UFg%3D%3D)  
-👁️ [The Observer Pattern](https://www.linkedin.com/pulse/observer-pattern-samson-baraka-tzdhf/?trackingId=c976misJRN%2BUgd%2FrH535%2FA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_publications_details%3BXDSLDGxfQYig%2Fifo%2B88UFg%3D%3D)
-
----
-
-### 📫 Connect With Me
-
-<p align="center">
-  <a href="mailto:kbhacksandsolutions@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/samson-baraka"><img src="https://img.shields.io/badge/LinkedIn-Samson%20Baraka-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/kamarbaraka"><img src="https://img.shields.io/badge/GitHub-Samson%20Baraka-%23181717?style=for-the-badge&logo=github&logoColor=white"></a>
-
-[//]: # (  <a href="https://imis.afa.go.ke/afa/"><img src="https://img.shields.io/badge/Portfolio-View_My_Work-%2300BFFF?style=for-the-badge&logo=google-chrome&logoColor=white"></a>)
-</p>
-
----
-
 <h3 align="center">✨ “Building Brilliance Through Code.” ✨</h3>
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
 
 ---
