@@ -9,8 +9,8 @@
 ### 💡 About Me 
 🌍 **Founder & CTO** at [Kalon Brilliance Hacks & Solutions Ltd.](https://kbhacksandsolutions.com)  
 🧠 9+ years of experience in **Enterprise & AI Systems Engineering**  
-🏗️ Specialized in **ERP**, **CRM**, **IMIS**, **IFMIS**, and **GovTech** solutions  
-💬 Fluent in **Java**, **Python**, **C++**, **C#**, and modern **microservices architecture**  
+🏗️ Specialized in **ERP**, **CRM**, **IMIS**, **IFMIS**, **Web3**, and **GovTech** solutions  
+💬 Fluent in **Java**, **Python**, **Rust**, **C#**, and modern **microservices architecture**  
 👥 Mentoring and leading teams of engineers to deliver impactful technology  
 🔥 Passionate about **scalable system architecture**, **AI integration**, and **digital transformation**  
 
@@ -34,7 +34,7 @@
 
 | 💼 Enterprise Systems | 🧩 Architecture | ⚙️ Backend Dev | 🧠 AI Integration | 🌐 Cloud & DevOps |
 |------------------------|----------------|----------------|------------------|------------------|
-| ERP, CRM, IMIS, IFMIS | Microservices, DDD, Hexagonal, OSGI | Java, Spring Boot, Python, Node.js | Predictive Models, LLM Integration | Docker, Kubernetes, GCP, CI/CD |
+| ERP, CRM, IMIS, IFMIS | Microservices, DDD, Hexagonal, OSGI | Java, Rust, Python, Node.js | Predictive Models, LLM Integration | Docker, Kubernetes, GCP, CI/CD |
 
 </div>
 
